@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello, I'm Amogh Dhumal! 👋
 
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning Java and Python.
